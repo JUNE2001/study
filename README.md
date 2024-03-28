@@ -1,1 +1,1 @@
-# Code -> DownloadZIP
+# 다운방법 : Code -> DownloadZIP
